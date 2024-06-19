@@ -1,89 +1,28 @@
 {
   "date": "2024.06",
   "entries": [
+
     {
       "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Athena",
+      "ring": 1,
+      "label": "Keycloak java client",
+      "link": "https://github.com/SN-DKR-DIG-TMP/digital-tmp-keycloak-config",
       "active": true,
       "moved": 0
-    },
+    }, 
     {
       "quadrant": 3,
-      "ring": 0,
-      "label": "AWS EMR",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Glue",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "AWS Lake Formation",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Airflow",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Databricks",
+      "ring": 1,
+      "label": "Spring security",
+      "link": "https://github.com/SN-DKR-DIG-TMP/digital-tmp-spring-security",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 3,
       "ring": 1,
-      "label": "Flink",
-      "link": "https://engineering.zalando.com/tags/apache-flink.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Google BigQuery",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "Presto",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Spark",
-      "link": "https://engineering.zalando.com/tags/apache-spark.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 2,
-      "label": "Streamlit",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 1,
-      "label": "dbt",
+      "label": "Message Broker (kafka, AMQ, event) ",
+      "link": "https://github.com/SN-DKR-DIG-TMP/digital-tmp-messagebroker",
       "active": true,
       "moved": 0
     },
