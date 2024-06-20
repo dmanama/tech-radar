@@ -29,13 +29,6 @@
     {
       "quadrant": 2,
       "ring": 0,
-      "label": "AWS DynamoDB",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 2,
-      "ring": 0,
       "label": "AWS S3",
       "active": true,
       "moved": 0
@@ -89,77 +82,6 @@
       "moved": 0
     },
     {
-      "quadrant": 2,
-      "ring": 0,
-      "label": "Redis",
-      "link": "https://engineering.zalando.com/tags/redis.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "AWS CloudFormation",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "AWS CloudFront",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "AWS Elemental MediaConvert",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "AWS Lambda",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "AWS Service Catalog",
-      "active": true,
-      "moved": 1
-    },
-    {
-      "quadrant": 1,
-      "ring": 1,
-      "label": "AWS Step Functions",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Amazon Bedrock",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Amazon Pinpoint",
-      "active": true,
-      "moved": 1
-    },
-    {
-      "quadrant": 1,
-      "ring": 0,
-      "label": "Amazon SageMaker",
-      "active": true,
-      "moved": 0
-    },
-    {
       "quadrant": 1,
       "ring": 0,
       "label": "Docker",
@@ -173,13 +95,6 @@
       "label": "GraalVM",
       "active": true,
       "moved": 0
-    },
-    {
-      "quadrant": 1,
-      "ring": 2,
-      "label": "Kotlin Multiplatform",
-      "active": true,
-      "moved": 1
     },
     {
       "quadrant": 1,
@@ -231,8 +146,7 @@
     {
       "quadrant": 0,
       "ring": 0,
-      "label": "Swift",
-      "link": "https://engineering.zalando.com/tags/swift.html",
+      "label": "Kotlin Multiplatform",
       "active": true,
       "moved": 0
     },
@@ -270,14 +184,6 @@
       "ring": 0,
       "label": "Kafka",
       "link": "https://engineering.zalando.com/tags/apache-kafka.html",
-      "active": true,
-      "moved": 0
-    },
-    {
-      "quadrant": 3,
-      "ring": 0,
-      "label": "Nakadi",
-      "link": "https://nakadi.io",
       "active": true,
       "moved": 0
     },
