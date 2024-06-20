@@ -36,7 +36,7 @@
 
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 2,
       "label": "Apache Cassandra",
       "link": "https://engineering.zalando.com/tags/cassandra.html",
       "active": true,
@@ -52,14 +52,14 @@
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 0,
       "label": "MongoDB",
       "active": true,
       "moved": 0
     },
     {
       "quadrant": 2,
-      "ring": 3,
+      "ring": 0,
       "label": "MySQL",
       "active": true,
       "moved": 0
@@ -122,7 +122,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 0,
+      "ring": 1,
       "label": "Python",
       "link": "https://engineering.zalando.com/tags/python.html",
       "active": true,
@@ -130,7 +130,7 @@
     },
     {
       "quadrant": 0,
-      "ring": 1,
+      "ring": 2,
       "label": "Kotlin Multiplatform",
       "active": true,
       "moved": 0
@@ -139,7 +139,7 @@
       "quadrant": 0,
       "ring": 0,
       "label": "Angular",
-      "link": "https://engineering.zalando.com/tags/typescript.html",
+      "link": "https://angular.dev/",
       "active": true,
       "moved": 0
     },
@@ -160,7 +160,7 @@
     },
     {
       "quadrant": 1,
-      "ring": 1,
+      "ring": 2,
       "label": "RabbitMQ",
       "link": "https://engineering.zalando.com/tags/rabbitmq.html",
       "active": true,
